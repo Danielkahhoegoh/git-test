@@ -1,2 +1,3 @@
 hi, testLocal
 testLocal received on github from local git repository.
+testLocal adds another line.
