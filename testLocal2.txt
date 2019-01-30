@@ -1,1 +1,2 @@
 Hi, testLocal2, edited by local master branch zzz
+trying to merge difference between local source and master branch
