@@ -3,3 +3,4 @@ testLocal received on github from local git repository.
 testLocal adds another line.
 Remote repo source branch added a new line, waiting to be pulled into local repo
 Remote repo source branch added another new line, waiting to be pulled into local repo
+Purposely created extra line and have the local repository source branch to push to this remote repo, this line should trigger conflict
