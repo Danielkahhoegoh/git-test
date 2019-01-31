@@ -1,2 +1,3 @@
 Hi, testLocal2, edited by local master branch zzz
 trying to merge difference between local source and master branch
+created from local repo source branch to commit and remote repo source branch will merge to, then i will try to push and resolve the conflict
