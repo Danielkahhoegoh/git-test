@@ -5,4 +5,8 @@ created from local repo source branch to commit and remote repo source branch wi
 =======
 created from remote repo source branch to commit and local repo source branch will merge to, then i will try to push and resolve the conflict
 
+<<<<<<< HEAD
 >>>>>>> origin/source
+=======
+new line added in remote repo but i will like to have this kline in local repo
+>>>>>>> 578063ba17e7ab0e54e79aaf327b268bf76484a9
