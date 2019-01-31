@@ -4,3 +4,5 @@ testLocal adds another line.
 Remote repo source branch added a new line, waiting to be pulled into local repo
 Remote repo source branch added another new line, waiting to be pulled into local repo
 Added one line in local repo source branch to test conflict with remote repo
+
+new line added only at remote repo but I want this to be applied to local repo too 
