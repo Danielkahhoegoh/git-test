@@ -9,3 +9,4 @@ new line added only at remote repo but I want this to be applied to local repo t
 another new line added only at remote repo but I want this to be applied to local repo too 
 testing merge strategies, this line is added by remote master branch 
 testing merge strategies, this another line is added by remote master branch 
+testing merge strategies, third line is added by remote master branch 
