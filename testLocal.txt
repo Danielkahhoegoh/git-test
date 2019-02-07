@@ -11,3 +11,4 @@ testing merge strategies, this line is added by remote master branch
 testing merge strategies, this another line is added by remote master branch 
 testing merge strategies, third line is added by remote master branch 
 adding new line to test git rebase
+adding another line to test git rebase
