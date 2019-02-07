@@ -7,3 +7,4 @@ Added one line in local repo source branch to test conflict with remote repo
 
 new line added only at remote repo but I want this to be applied to local repo too 
 another new line added only at remote repo but I want this to be applied to local repo too 
+testing merge strategies, this line is added by remote master branch 
